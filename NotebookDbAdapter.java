@@ -22,7 +22,7 @@ public class NotebookDbAdapter {
     // Table, holds all the information for our notes
     public static final String NOTE_TABLE = "note";
 
-    // a column represents a particular piece of information inside of our note
+    // a column represents a particular piece of information inside of our thing note.
     public static final String COLUMN_ID = "_id";
     public static final String COLUMN_TITLE = "title";
     public static final String COLUMN_MESSAGE = "message";
